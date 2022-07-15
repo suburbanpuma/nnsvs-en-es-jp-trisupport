@@ -290,6 +290,9 @@ QS "R-1" {*+1=*}
 QS "L-uw" {*^uw-*}
 QS "C-uw" {*-uw+*}
 QS "R-uw" {*+uw=*}
+QS "L-U" {*^U-*}
+QS "C-U" {*-U+*}
+QS "R-U" {*+U=*}
 QS "L-E" {*^E-*}
 QS "C-E" {*-E+*}
 QS "R-E" {*+E=*}
