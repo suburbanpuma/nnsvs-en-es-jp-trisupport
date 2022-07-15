@@ -40,6 +40,11 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 | EN       | U       | U       | Add Later                        |
 | JP       | M       | M       | Add Later                        |
 | JP       | N       | N       | Add Later                        |
+| JP       | a0      | a_0     | Add Later                        |
+| JP       | e0      | e_0     | Add Later                        |
+| JP       | i0      | i_0     | Add Later                        |
+| JP       | o0      | o_0     | Add Later                        |
+| JP       | M0      | M_0     | Add Later                        |
 
 
 ## Consonants:
