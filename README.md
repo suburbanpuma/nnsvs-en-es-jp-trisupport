@@ -108,4 +108,4 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 | ES-F-01    | Musical  | M       |
 
 ## Neat Stuff:
-Due to the support of both English and Spanish phonemes, this HED is indirectly compatible with Catalan.
+Due to the support of both English, Spanish and Japanese phonemes, this HED is indirectly compatible with Catalan, Tagalog, and other languages that incorporate phonology from exclusively those three languages.
