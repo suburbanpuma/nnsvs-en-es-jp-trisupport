@@ -108,4 +108,4 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 | ES-F-01    | Musical  | M       |
 
 ## Neat Stuff:
-Due to the support of both English, Spanish and Japanese phonemes, this HED is indirectly compatible with Catalan, Tagalog, and other languages that incorporate phonology from exclusively those three languages.
+Due to the support of both English, Spanish and Japanese phonemes, this HED is indirectly compatible with Catalan, Tagalog, and other languages that incorporate phonology from exclusively those three languages, although, for a better, more supported experience (with way bigger phoneme coverage), I'd recommend checking out the DYVAUX Romance NNSVS Support.
