@@ -10,7 +10,7 @@ eng:  @ A V { e@ O i I 1 uw E 3 aI aU eI OI oU
       b tS d D 4 f g h dZ k l m n N p r\ s S t T v w j z Z
 
 esp:  a e o u
-      B G J r x j\ L
+      B G J r x j\
 
 jpn:  M
       b’ ts\ d’ p\ p\’ g’ C z\ k’ m’ p’ 4’ s\ t’ ts 
@@ -25,7 +25,7 @@ eng:  ax A V { ex O i I 1 uw E 3 aI aU eI OI oU
       b tS d D 4 f g h dZ k l m n N p rr s S t T v w j z Z
 
 esp:  a e o u
-      B G J r x jj L
+      B G J r x jj
       
 jpn:  M
       b’ tss d’ pp pp’ g’ C zz k’ m’ p’ 4’ ss t’ ts 
