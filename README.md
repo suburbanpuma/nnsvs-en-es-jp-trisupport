@@ -9,7 +9,7 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 | br      |         | Inhale                    |
 | exh     |         | Exhale                    |
 | pau     |         | Silence                   |
-| gs      | gs      | Glottal Stop              |
+| gs      | ?       | Glottal Stop              |
 | cl      |         | Closure (Held Consonants) |
 | vf      |         | Vocal Fry                 |
 
