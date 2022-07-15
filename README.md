@@ -43,7 +43,55 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 
 
 ## Consonants:
-b tS d D 4 f g h dZ k l m n N p r\ s S t T v w j z Z B G J r x j\ b’ ts\ d’ p\ p\’ g’ C z\ k’ m’ p’ 4’ s\ t’ ts 
+| Language | Phoneme | X-SAMPA | Description                      |
+| -------- | ------- | ------- | -------------------------------- |
+| EN ES JP | b       | b       | Add Later     |
+| JP       | b'      | b'      | Add Later     |
+| ES       | B       | B       | Add Later     |
+| EN ES    | tS      | tS      | Add Later     |
+| JP       | tss     | ts\     | Add Later     |
+| EN ES JP | d       | d       | Add Later     |
+| JP       | d'      | d'      | Add Later     |
+| ES       | D       | D       | Add Later     |
+| EN ES    | f       | f       | Add Later     |
+| JP       | pp      | p\      | Add Later     |
+| JP       | pp'     | p\'     | Add Later     |
+| EN ES JP | g       | g       | Add Later     |
+| JP       | g'      | g'      | Add Later     |
+| ES       | G       | G       | Add Later     |
+| EN JP    | h       | h       | Add Later     |
+| JP       | C       | C       | Add Later     |
+| ES       | x       | x       | Add Later     |
+| EN       | dZ      | dZ      | Add Later     |
+| EN ES JP | k       | k       | Add Later     |
+| JP       | k'      | k'      | Add Later     |
+| EN ES JP | l       | l       | Add Later     |
+| EN ES JP | m       | m       | Add Later     |
+| JP       | m'      | m'      | Add Later     |
+| EN ES JP | n       | n       | Add Later     |
+| EN ES JP | N       | N       | Add Later     |
+| ES JP    | J       | J       | Add Later     |
+| EN ES JP | p       | p       | Add Later     |
+| JP       | p'      | p'      | Add Later     |
+| EN ES JP | 4       | 4       | Add Later     |
+| JP       | 4'      | 4'      | Add Later     |
+| EN       | rr      | r\      | Add Later     |
+| ES       | r       | r       | Add Later     |
+| EN ES JP | s       | s       | Add Later     |
+| JP       | ss      | s\      | Add Later     |
+| EN ES    | S       | S       | Add Later     |
+| EN ES JP | t       | t       | Add Later     |
+| JP       | t'      | t'      | Add Later     |
+| JP       | ts      | ts      | Add Later     |
+| EN ES    | T       | T       | Add Later     |
+| EN       | v       | v       | Add Later     |
+| EN ES JP | w       | w       | Add Later     |
+| EN ES JP | j       | j       | Add Later     |
+| ES       | jj      | j\      | Add Later     |
+| EN JP    | z       | z       | Add Later     |
+| JP       | zz      | zz      | Add Later     |
+| EN       | Z       | Z       | Add Later     |
+
 
 ## Flags:
 | Bank       | Flag     | Symbol  |
