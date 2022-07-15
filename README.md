@@ -106,3 +106,6 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 | Sin Nombre | Cursive  | C       |
 | ES-F-01    | Falsetto | F       |
 | ES-F-01    | Musical  | M       |
+
+## Neat Stuff:
+Due to the support of both English and Spanish phonemes, this HED is indirectly compatible with Catalan.
