@@ -6,12 +6,12 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 ## Others:
 | Phoneme | X-SAMPA | Description               |
 | ------- | ------- | ------------------------- |
-| br      |         | Inhale                    |
-| exh     |         | Exhale                    |
 | pau     |         | Silence                   |
-| gs      | ?       | Glottal Stop              |
 | cl      |         | Closure (Held Consonants) |
+| gs      | ?       | Glottal Stop              |
+| exh     |         | Exhale                    |
 | vf      |         | Vocal Fry                 |
+| trash   |         | Trash                     |
 
 ## Vowels:
 | Language | Phoneme | X-SAMPA | Description                      |
