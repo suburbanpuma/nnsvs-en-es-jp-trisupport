@@ -24,9 +24,9 @@ QS "Cursive" {*^C_*}
 #Phonemes
 
 #Silences
-QS "L-Silences" {*^pau-*,*^exh-*,*^sil-*}
-QS "C-Silences" {*-pau+*,*-exh+*,*-sil+*}
-QS "R-Silences" {*+pau=*,*+exh=*,*+sil=*}
+QS "L-Silences" {*^pau-*,*^exh-*,*^sil-*,*^trash-*}
+QS "C-Silences" {*-pau+*,*-exh+*,*-sil+*,*-trash+*}
+QS "R-Silences" {*+pau=*,*+exh=*,*+sil=*,*+trash=*}
 
 #Language
 QS "L-English" {*^gs-*,*^cl-*,*^vf-*,*^ax-*,*^A-*,*^V-*,*^{-*,*^ex-*,*^O-*,*^i-*,*^I-*,*^1-*,*^uw-*,*^U-*,*^E-*,*^3-*,*^aI-*,*^aU-*,*^eI-*,*^OI-*,*^oU-*,*^b-*,*^tS-*,*^d-*,*^D-*,*^4-*,*^f-*,*^g-*,*^h-*,*^dZ-*,*^k-*,*^l-*,*^m-*,*^n-*,*^N-*,*^p-*,*^rr-*,*^s-*,*^S-*,*^t-*,*^T-*,*^v-*,*^w-*,*^j-*,*^z-*,*^Z-*}
@@ -218,6 +218,9 @@ QS "R-pau" {*+pau=*}
 QS "L-sil" {*^sil-*}
 QS "C-sil" {*-sil+*}
 QS "R-sil" {*+sil=*}
+QS "L-trash" {*^trash-*}
+QS "C-trash" {*-trash+*}
+QS "R-trash" {*+trash=*}
 QS "L-gs" {*^gs-*}
 QS "C-gs" {*-gs+*}
 QS "R-gs" {*+gs=*}
