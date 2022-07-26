@@ -7,7 +7,7 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 | Phoneme | X-SAMPA | Description               |
 | ------- | ------- | ------------------------- |
 | pau     |         | Silence                   |
-| cl      |         | Closure (Held Consonants) |
+| cl      | :       | Closure (Held Consonants) |
 | gs      | ?       | Glottal Stop              |
 | exh     |         | Exhale                    |
 | vf      |         | Vocal Fry                 |
