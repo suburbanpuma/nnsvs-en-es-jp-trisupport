@@ -1,6 +1,7 @@
 # Multilingual NNSVS HED
 HED and supporting files for the NNSVS tri-language system.
 Based on X-SAMPA, this system includes the symbols for American English, South American Spanish, and Japanese.
+None of the dictionaries are word based, only input allowed is phonetic.
 
 
 ## Others:
@@ -111,6 +112,18 @@ Based on X-SAMPA, this system includes the symbols for American English, South A
 | Sin Nombre | Cursive  | C       |
 | ES-F-01    | Falsetto | F       |
 | ES-F-01    | Musical  | M       |
+
+## Included:
+| File                  | Type       | Description                                                                                       |
+| --------------------- | ---------- | ------------------------------------------------------------------------------------------------- |
+| trilang.hed           | HED        | Phoneme descriptor file                                                                           |
+| blank.table           | Dictionary | Base dictionary. Includes X-SAMPA and HED phonetic symbols.                                       |
+| dyvauxy.table         | Dictionary | ARPABET-like dictionary for all languages. Loosely follows the DYVAUX Romance phonetic symbols.   |
+| en-arpabet.table      | Dictionary | ARPABET dictionary with only English phonemes.                                                    |
+| es-enye.table         | Dictionary | [e ny e] dictionary with only Spanish phonemes.                                                   |
+| jp-romaji.table       | Dictionary | Romaji dictionary with only Japanese symbols. Follows Synthesizer V/CeVIO/Sinsy phonetic symbols. |
+| jp-romaji-mora.table  | Dictionary | Romaji dictionary with Japanese syllables.                                                        |
+| jp-kana-mora.table    | Dictionary | Hiragana/Katakana dictionary with Japanese syllables.                                             |
 
 ## Neat Stuff:
 Due to the support of both English, Spanish and Japanese phonemes, this HED is indirectly compatible with Catalan, Tagalog, and other languages that incorporate phonology from exclusively those three languages, although, for a better, more supported experience (with way bigger phoneme coverage), I'd recommend checking out the DYVAUX Romance NNSVS Support.
