@@ -15,37 +15,37 @@ None of the dictionaries are word based, only input allowed is phonetic.
 | trash   |         | Trash                     |
 
 ## Vowels:
-| Language | Phoneme | X-SAMPA | Description                      |
-| -------  | ------- | ------- | -------------------------------- |
-| ES JP    | a       | a       | Central open unrounded vowel     |
-| EN       | A       | A       | Add Later                        |
-| EN       | aI      | aI      | Add Later                        |
-| EN       | aU      | aU      | Add Later                        |
-| EN       | ax      | @       | Add Later                        |
-| EN       | V       | V       | Add Later                        |
-| EN       | {       | {       | Add Later                        |
-| ES JP    | e       | e       | Close-mid front unrounded vowel  |
-| EN       | E       | E       | Add Later                        |
-| EN       | 3       | 3       | Add Later                        |
-| EN       | eI      | eI      | Add Later                        |
-| EN       | ex      | e@      | Add Later                        |
-| EN ES JP | i       | i       | Close front unrounded vowel      |
-| EN       | I       | I       | Add Later                        |
-| EN       | 1       | 1       | Add Later                        |
-| ES JP    | o       | o       | Close-mid back rounded vowel     |
-| EN       | O       | O       | Add Later                        |
-| EN       | OI      | OI      | Add Later                        |
-| EN       | oU      | oU      | Add Later                        |
-| ES       | u       | u       | Close back rounded vowel         |
-| EN       | uw      | u:      | Add Later                        |
-| EN       | U       | U       | Add Later                        |
-| JP       | M       | M       | Add Later                        |
-| JP       | N       | N       | Add Later                        |
-| JP       | a0      | a_0     | Add Later                        |
-| JP       | e0      | e_0     | Add Later                        |
-| JP       | i0      | i_0     | Add Later                        |
-| JP       | o0      | o_0     | Add Later                        |
-| JP       | M0      | M_0     | Add Later                        |
+| Language | Phoneme | X-SAMPA | Description                              |
+| -------  | ------- | ------- | ---------------------------------------- |
+| ES JP    | a       | a       | Central open unrounded vowel             |
+| EN       | A       | A       | Open back unrounded vowel                |
+| EN       | aI      | aI      | Add Later                                |
+| EN       | aU      | aU      | Add Later                                |
+| EN       | ax      | @       | Schwa                                    |
+| EN       | V       | V       | Open-mid back unrounded vowel            |
+| EN       | {       | {       | Near-open front unrounded vowel          |
+| ES JP    | e       | e       | Close-mid front unrounded vowel          |
+| EN       | E       | E       | Open-mid front unrounded vowel           |
+| EN       | 3       | 3       | Open-mid central unrounded vowel         |
+| EN       | eI      | eI      | Add Later                                |
+| EN       | ex      | e@      | Add Later                                |
+| EN ES JP | i       | i       | Close front unrounded vowel              |
+| EN       | I       | I       | Near-close front unrounded vowel         |
+| EN       | 1       | 1       | Close central unrounded vowel            |
+| ES JP    | o       | o       | Close-mid back rounded vowel             |
+| EN       | O       | O       | Open-mid back rounded vowel              |
+| EN       | OI      | OI      | Add Later                                |
+| EN       | oU      | oU      | Add Later                                | 
+| ES       | u       | u       | Close back rounded vowel                 |
+| EN       | uw      | u:      | Add Later                                |
+| EN       | U       | U       | Near-close back rounded vowel            |
+| JP       | M       | M       | Close back unrounded vowel               |
+| JP       | N       | N       | Velar nasal                              |
+| JP       | a0      | a_0     | Unvoiced central open unrounded vowel    |
+| JP       | e0      | e_0     | Unvoiced close-mid front unrounded vowel |
+| JP       | i0      | i_0     | Unvoiced close front unrounded vowel     |
+| JP       | o0      | o_0     | Unvoiced close-mid back rounded vowel    |
+| JP       | M0      | M_0     | Unvoiced close back unrounded vowel      |
 
 
 ## Consonants:
