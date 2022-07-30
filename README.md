@@ -120,10 +120,10 @@ None of the dictionaries are word based, only input allowed is phonetic.
 | blank.table            | Dictionary | Base dictionary. Includes X-SAMPA and HED phonetic symbols.                                       | Yes         |
 | dyvauxy.table          | Dictionary | ARPABET-like dictionary for all languages. Loosely follows the DYVAUX Romance phonetic symbols.   | Yes         |
 | en-arpabet.table       | Dictionary | ARPABET dictionary with only English phonemes.                                                    | Yes         |
-| en-xsampa-morae.table  | Dictionary | Syllabic X-SAMPA dictionary with only English phonemes.                                           | No          |
 | es-enye.table          | Dictionary | [e ny e] dictionary with only Spanish phonemes.                                                   | Yes         |
-| es-xsampa-morae.table  | Dictionary | Syllabic X-SAMPA dictionary with only Spanish phonemes.                                           | No          |
+| es-classic.table       | Dictionary | SAMPA-like dictionary with only Spanish phonemes.                                                 | Yes         |
 | jp-romaji.table        | Dictionary | Romaji dictionary with only Japanese symbols. Follows Synthesizer V/CeVIO/Sinsy phonetic symbols. | Yes         |
+| jp-x-sampa.table       | Dictionary | X-SAMPA dictionary with only Japanese symbols. Follows Synthesizer V/CeVIO/Sinsy phonetic symbols.| Yes         |
 | jp-romaji-morae.table  | Dictionary | Romaji dictionary with Japanese syllables.                                                        | Yes         |
 | jp-kana-morae.table    | Dictionary | Hiragana/Katakana dictionary with Japanese syllables.                                             | No          |
 
