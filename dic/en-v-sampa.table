@@ -1,5 +1,6 @@
 pau pau
 sil sil
+Sil pau
 trash trash
 R pau
 ? gs
@@ -8,15 +9,15 @@ cl cl
 vf vf
 exh exh
 @ ax
-A A
+Q A
 V V
 { {
 e@ ex
-O O
-i i
+O: O
+i: i
 I I
 1 1
-uw uw
+u: uw
 U U
 E E
 3 3
@@ -24,7 +25,7 @@ aI aI
 aU aU
 eI eI
 OI OI
-oU oU
+@U oU
 b b
 tS tS
 d d
@@ -40,7 +41,7 @@ m m
 n n
 N N
 p p
-r\ rr
+r rr
 s s
 S S
 t t
