@@ -121,9 +121,9 @@ None of the dictionaries are word based, only input allowed is phonetic.
 | dyvauxy.table          | Dictionary | ARPABET-like dictionary for all languages. Loosely follows the DYVAUX Romance phonetic symbols.   | Yes         |
 | en-arpabet.table       | Dictionary | ARPABET dictionary with only English phonemes.                                                    | Yes         |
 | en-x-sampa.table       | Dictionary | X-SAMPA dictionary with only English phonemes.                                                    | Yes         |
-| en-s-sampa.table       | Dictionary | Simplified SAMPA dictionary with only English phonemes.                                           | No          |
-| en-v-sampa.table       | Dictionary | VOCALOID SAMPA dictionary with only English phonemes.                                             | No          |
-| en-czsampa.table       | Dictionary | CZSAMPA dictionary with only English phonemes.                                                    | No          |
+| en-s-sampa.table       | Dictionary | Simplified SAMPA dictionary with only English phonemes.                                           | Yes         |
+| en-v-sampa.table       | Dictionary | VOCALOID SAMPA dictionary with only English phonemes.                                             | Yes         |
+| en-czsampa.table       | Dictionary | CZSAMPA dictionary with only English phonemes.                                                    | Yes         |
 | es-enye.table          | Dictionary | [e ny e] dictionary with only Spanish phonemes.                                                   | Yes         |
 | es-classic.table       | Dictionary | SAMPA-like dictionary with only Spanish phonemes.                                                 | Yes         |
 | es-x-sampa.table       | Dictionary | X-SAMPA dictionary with only Spanish phonemes.                                                    | Yes         |
