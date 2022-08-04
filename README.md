@@ -134,3 +134,6 @@ None of the dictionaries are word based, only input allowed is phonetic.
 
 ## Neat Stuff:
 Due to the support of both English, Spanish and Japanese phonemes, this HED is indirectly compatible with Catalan, Tagalog, and other languages that incorporate phonology from exclusively those three languages, although, for a better, more supported experience (with way bigger phoneme coverage), I'd recommend checking out the DYVAUX Romance NNSVS Support.
+
+## Note:
+The L phoneme is cut due to it not being used by the voice providers this HED was made for.
