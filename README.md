@@ -102,16 +102,17 @@ None of the dictionaries are word based, only input allowed is phonetic.
 ## Flags:
 | Bank       | Flag     | Symbol  |
 | ---------- | -------- | ------- |
-| Both       | Soft     | S       |
-| Both       | Tense    | T       |
-| Both       | Whisper  | W       |
-| Both       | Power    | P       |
-| Both       | Dark     | D       |
-| Both       | Bright   | B       |
-| Sin Nombre | Growl    | G       |
-| Sin Nombre | Cursive  | C       |
-| ES-F-01    | Falsetto | F       |
-| ES-F-01    | Musical  | M       |
+| Both       | Soft     | SFT     |
+| Both       | Tense    | TNS     |
+| Both       | Whisper  | WHI     |
+| Both       | Power    | PWR     |
+| Both       | Dark     | DRK     |
+| Both       | Bright   | BRI     |
+| Both       | Choir    | CHR     |
+| Sin Nombre | Growl    | GRW     |
+| Sin Nombre | Cursive  | CRS     |
+| ES-F-01    | Falsetto | FST     |
+| ES-F-01    | Musical  | MSC     |
 
 ## Included:
 | File                   | Type       | Description                                                                                       | Implemented |
