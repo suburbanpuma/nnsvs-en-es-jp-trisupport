@@ -6,20 +6,21 @@
 #Flags
 
 #Universal
-QS "Soft" {*^S_*}
-QS "Tense" {*^T_*}
-QS "Whisper" {*^W_*}
-QS "Power" {*^P_*}
-QS "Dark" {*^D_*}
-QS "Bright" {*^B_*}
+QS "Soft" {*^SFT_*}
+QS "Tense" {*^TNS_*}
+QS "Whisper" {*^WHI_*}
+QS "Power" {*^PWR_*}
+QS "Dark" {*^DRK_*}
+QS "Bright" {*^BRI_*}
+QS "Choir" {*^CHR_*}
 
 #ESF01 Only
-QS "Falsetto" {*^F_*}
-QS "Musical" {*^M_*}
+QS "Falsetto" {*^FST_*}
+QS "Musical" {*^MSC_*}
 
 #Sin Nombre Only
-QS "Growl" {*^G_*}
-QS "Cursive" {*^C_*}
+QS "Growl" {*^GRW_*}
+QS "Cursive" {*^CRS_*}
 
 #Phonemes
 
