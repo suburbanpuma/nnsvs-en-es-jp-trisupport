@@ -129,7 +129,7 @@ None of the dictionaries are word based, only input allowed is phonetic.
 | es-classic.table       | Dictionary | SAMPA-like dictionary with only Spanish phonemes.                                                 | Yes         |
 | es-x-sampa.table       | Dictionary | X-SAMPA dictionary with only Spanish phonemes.                                                    | Yes         |
 | jp-romaji.table        | Dictionary | Romaji dictionary with only Japanese symbols. Follows Synthesizer V/CeVIO/Sinsy phonetic symbols. | Yes         |
-| jp-x-sampa.table       | Dictionary | X-SAMPA dictionary with only Japanese symbols. Follows Synthesizer V/CeVIO/Sinsy phonetic symbols.| Yes         |
+| jp-x-sampa.table       | Dictionary | X-SAMPA dictionary with only Japanese symbols.                                                    | Yes         |
 | jp-romaji-morae.table  | Dictionary | Romaji dictionary with Japanese syllables.                                                        | Yes         |
 | jp-kana-morae.table    | Dictionary | Hiragana/Katakana dictionary with Japanese syllables.                                             | No          |
 
