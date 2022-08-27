@@ -58,7 +58,7 @@ None of the dictionaries are word based, only input allowed is phonetic.
 | JP       | tss     | ts\     | Add Later     |
 | EN ES JP | d       | d       | Add Later     |
 | JP       | d'      | d'      | Add Later     |
-| ES       | D       | D       | Add Later     |
+| EN ES    | D       | D       | Add Later     |
 | EN ES    | f       | f       | Add Later     |
 | JP       | pp      | p\      | Add Later     |
 | JP       | pp'     | p\'     | Add Later     |
