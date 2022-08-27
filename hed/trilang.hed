@@ -1,3 +1,8 @@
+#HED for NNSVS Tri-language system
+#in_dim: X(duration/timelag), X(acoustic)
+#in_rest_idx: X
+#in_lfx0_idx: X
+
 #Flags
 
 #Universal
