@@ -7,46 +7,169 @@ cl cl
 : cl
 vf vf
 exh exh
-x ax
 a A
-u V
-@ {
-ex ex
-0 O
-E i
-i I
-1 1
-o uw
-6 U
 e E
+i I
+o uw
+u V
+E i
+9 O
 3 3
-I aI
-8 aU
+@ {
 A eI
-Q OI
+I aI
 O oU
+8 aU
+Q OI
+6 U
+x ax
+& { n
+8n aU n
+ar A rr
+Ar ex
+Er I rr
+3r rr U rr
+IR aI rr
+1 I N
+1ng I N
+1nk I N k
+Ang { N
+0r O rr
+0l oU l
+9l O l
+ll l
+mm m
+nn n
+nng N
 b b
-ch tS
 d d
-dh D
-dd 4
 f f
 g g
-h h
 j dZ
 k k
+p p
+s s
+t t
+v v
+z z
+ch tS
+dh D
+sh S
+th T
+zh Z
+h h
 l l
 m m
 n n
-ng N
-p p
 r rr
-s s
-sh S
-t t
-th T
-v v
 w w
 y j
-z z
-zh Z
+dd 4
+sk s k
+sp s p
+st s t
+sm s m
+sn s n
+ng N
+nk N k
+bl b l
+fl f l
+gl g l
+kl k l
+pl p l
+sl s l
+spl s p l
+br b rr
+dr d rr
+fr f rr
+gr g rr
+kr k rr
+pr p rr
+tr t rr
+shr S rr
+skr s k rr
+spr s p rr
+str s t rr
+thr T rr
+sf s f
+dw d w
+gw g w
+kw k w
+sw s w
+tw t w
+vw v w
+skw s k w
+thw T w
+by b j
+fy f j
+gy g j
+ky k j
+py p j
+my m j
+ny n j
+vy v j
+zy z j
+sky s k j
+spy s p j
+bd
+bz
+ft
+fts
+fs
+gd
+gz
+ks
+kt
+kst
+ps
+pt
+vz
+vd
+zd
+znt
+cht
+chz
+ts
+dz
+jd
+dhd
+sht
+ths
+md
+mf
+mfs
+mp
+mps
+mpt
+mz
+ngz
+nk
+nks
+nkth
+sk
+st
+sts
+sks
+skt
+nd
+ns
+nt
+nts
+nz
+nj
+njd
+nch
+ncht
+nth
+lb
+ld
+lf
+lk
+lp
+ls
+lt
+lv
+lz
+lch
+lsh
+lth
