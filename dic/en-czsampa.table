@@ -111,65 +111,70 @@ vy v j
 zy z j
 sky s k j
 spy s p j
-bd
-bz
-ft
-fts
-fs
-gd
-gz
-ks
-kt
-kst
-ps
-pt
-vz
-vd
-zd
-znt
-cht
-chz
-ts
-dz
-jd
-dhd
-sht
-ths
-md
-mf
-mfs
-mp
-mps
-mpt
-mz
-ngz
-nk
-nks
-nkth
-sk
-st
-sts
-sks
-skt
-nd
-ns
-nt
-nts
-nz
-nj
-njd
-nch
-ncht
-nth
-lb
-ld
-lf
-lk
-lp
-ls
-lt
-lv
-lz
-lch
-lsh
-lth
+bd b d
+bz d z
+ft f t
+fts f t s
+fs f s
+gd g s
+gz f z
+ks k s
+kt k t
+kst k s t
+ps p s
+pt p t
+vz v z
+vd v d
+zd z d
+znt z V n t
+znt1 z ax n t
+cht tS t
+chz tS I z
+chz1 tS 1 z
+ts t s
+dz d z
+jd dZ d
+dhd D d
+sht S t
+sht1 S d
+sht2 S 4
+ths f T s
+md m d
+mf m f
+mfs m f s
+mp m p
+mps m p s
+mpt m p t
+mz m z
+ngz N z
+nk N k
+nks N k z
+nkth N k T
+sk s k
+st s t
+sts s t s
+sks s k s
+skt s k t
+nd n d
+ns n s
+nt n t
+nts n t s
+nz n z
+nj n dZ
+njd n dZ d
+nch n tS
+ncht n tS t
+ncht1 n tS d
+nth n T
+lb l b
+ld l d
+lf l f
+lk l k
+lp l p
+ls l s
+lt l t
+lv l v
+lz l z
+lch l tS
+lsh l S
+lth l T
